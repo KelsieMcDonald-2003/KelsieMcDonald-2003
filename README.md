@@ -34,8 +34,9 @@
         * https://github.com/KelsieMcDonald-2003/JavaScript_Calculator.git
 
 ## Contributions
-
+I am currently in a team, working on a website for a construction company.
 ## Hobbies
+When I am not working on any Software Development projects, I am crocheting, baking, needle felting, and bowling.
 <!--
 **KelsieMcDonald-2003/KelsieMcDonald-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
