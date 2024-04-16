@@ -22,6 +22,7 @@
 I have been currently been working on a website for a construction company, with a team. So far, I made contributions to the photo carousel 
 on the home page and worked on the photo index viewing page a little bit. The link below will take you to the github repository of where I 
 have been working with a team.
+
 https://github.com/ohill17/297-GrassHopper
 
 ## Hobbies
