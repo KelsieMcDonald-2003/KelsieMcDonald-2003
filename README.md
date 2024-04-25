@@ -2,7 +2,7 @@
 
 ## About Me
  * I am currently enrolled in a community college to get my Associates in Software Development
-       * Once I finish this Spring Term, I will be receiving my associate’s degree.
+       - Once I finish this Spring Term, I will be receiving my associate’s degree.
  * I became interested in Software Development back in High School, when I took a Computer Science class
  * The hands-on projects that come with being a Software Developer truly captivate me
  * There’s a unique thrill in seeing the projects I work on spring to life right at my fingertips
