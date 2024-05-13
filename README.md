@@ -14,8 +14,6 @@
     - Crochet
         * https://github.com/KelsieMcDonald-2003/Crochet.git
  * JavaScript
-    - To-Do List
-        * https://github.com/KelsieMcDonald-2003/JavaScript_ToDoList.git
     - Calculator
         * https://github.com/KelsieMcDonald-2003/JavaScript_Calculator.git
 
