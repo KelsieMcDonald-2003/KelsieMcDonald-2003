@@ -15,7 +15,9 @@
         * https://github.com/KelsieMcDonald-2003/Crochet.git
  * JavaScript
     - Calculator
-        * https://github.com/KelsieMcDonald-2003/JavaScript_Calculator.git
+           * https://github.com/KelsieMcDonald-2003/JavaScript_Calculator.git
+    - To-Do List
+        * https://github.com/KelsieMcDonald-2003/JavaScript_ToDoList.git
 
 ## Contributions
 I have been currently been working on a website for a construction company, with a team. So far, I made contributions to the photo carousel 
