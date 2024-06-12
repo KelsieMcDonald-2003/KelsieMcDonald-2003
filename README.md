@@ -9,10 +9,9 @@
 
 ## Projects
  * ASP.NET Core MVC
-    - Books
-        * https://github.com/KelsieMcDonald-2003/Books.git
-    - Crochet
-        * https://github.com/KelsieMcDonald-2003/Crochet.git
+    - Books: https://github.com/KelsieMcDonald-2003/Books.git
+    - Crochet: https://github.com/KelsieMcDonald-2003/Crochet.git
+    - CraftersWorld: https://github.com/KelsieMcDonald-2003/CraftersWorld.git
  * JavaScript
     - Calculator: https://github.com/KelsieMcDonald-2003/JavaScript_Calculator.git
     - To-Do List: https://github.com/KelsieMcDonald-2003/JavaScript_ToDoList.git
