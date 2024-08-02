@@ -16,6 +16,7 @@
     - Calculator: https://github.com/KelsieMcDonald-2003/JavaScript_Calculator.git
     - To-Do List: https://github.com/KelsieMcDonald-2003/JavaScript_ToDoList.git
  * Python
+    - Word Riddler: https://github.com/KelsieMcDonald-2003/Word_Riddler.git
  * C#
    - Guess My Word: https://github.com/KelsieMcDonald-2003/Guess_My_Word.git
    
